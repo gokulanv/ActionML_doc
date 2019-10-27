@@ -20,4 +20,5 @@
 ## Histogram equalization
 > A histogram is a very important tool in Image processing. It is a graphical representation of the distribution of data. An image histogram gives a graphical representation of the distribution of pixel intensities in a digital image.
 > The histogram equalization process is an image processing method to adjust the contrast of an image by modifying the image’s histogram. This is a good feature to use after eliminating the noise because the lightness of the basketball ground is almost the same everywhere in the region.
+
 ![all features](/Assets/final.jpg)
