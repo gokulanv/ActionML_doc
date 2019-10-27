@@ -46,11 +46,11 @@
 
 ### Three Point Prediction 
 >
-![alt text ](/Assets/prediction_jumpshot.gif )
+![alt text ](/Assets/prediction_three_point.gif )
 >
 | Original Image                                  | Activation Map                                  |
 |-------------------------------------------------|-------------------------------------------------|
-| ![alt text ](/Assets/jumpshot_orig.jpg )        | ![image alt >< ](/Assets/jumpshot_heatmap.jpg ) |
+| ![alt text ](/Assets/threepoint_orig.png )        | ![image alt >< ](/Assets/threepoint_heatmap.png ) |
 
 
 >
