@@ -20,7 +20,7 @@
 |       | True | False |
 |-------|------|-------|
 | True  | 245  | 0     | 
-| False | 18   | 239   |
+| False | 0    | 239   |
 
 ### Jump Shot Prediction 
 >
