@@ -3,6 +3,5 @@
 * [Home](/)
 * [Preprocess](preprocess.md)
 * [Feature Extraction](featureEx.md)
-* [Architecture](preprocess.md)
-* [Predicted Actions](tasks-done.md)
+* [Architecture](architecture.md)
 * [Results](results.md)

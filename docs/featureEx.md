@@ -1,6 +1,8 @@
 # Feature Extraction
 
-## SIFT
+## SIFT (Scale Invariant Feature Transform)
+> The scale-invariant feature transform (SIFT) is an algorithm used to detect and describe local features in digital images. It locates certain key points and then furnishes them with quantitative information (so-called descriptors) which can be used for object recognition.
+
 ![sift](/Assets/sift.jpg)
 ![sift comparison](/Assets/sift_compare.jpg)
 
