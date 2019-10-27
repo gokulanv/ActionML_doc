@@ -13,14 +13,14 @@
 
 | Accuracy | Precision | Recall |
 |----------|-----------|--------|
-| 0.99     | 0.99      | 1.0    |
+| 1.0      | 1.0       | 1.0    |
 
 ##### Confusion Matrix
 >
 |       | True | False |
 |-------|------|-------|
-| True  | 365  | 0     | 
-| False | 18   | 481   |
+| True  | 245  | 0     | 
+| False | 18   | 239   |
 
 ### Jump Shot Prediction 
 >
